@@ -1,0 +1,71 @@
+.color{
+	background-color: #D02746;
+}
+.title{
+	margin-top: 0%;
+	padding: 1% 0%;
+	color:white;
+}
+
+.image{
+	background-image:url('../images/Portada.jpg');
+}
+
+.personal_image{
+	border: 5px solid white;
+	border-radius: 50%;
+	margin: 1% 0;
+}
+
+.contenido{
+	margin: 1% 1%;
+}
+.boton{
+	position: relative;
+	margin-top: 203px;
+}
+.logos{
+	margin-left: 0%;
+}
+.logo{
+	width: 5%;
+	margin-top: 8%;
+}
+.contacto{
+	background-color: white;
+	border-radius: 5%;
+	width: 60%;
+	margin-left: 20%;
+}
+p{
+	color:white;
+}
+
+.slide{
+    border: .5em solid #D02746;
+    width: 600px;
+    height: 300px;
+    margin: 2% auto;
+    border-radius: .5em;
+    box-shadow: 10px 10px 5px #888;
+    position: relative;
+}
+ 
+.slide img{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+}
+ 
+.slide .img2, .slide .img3,
+.slide .img4, .slide .img5,
+.slide .img6, .slide .img7,
+.slide .img8, .slide .img9,
+.slide .img10, .slide .img11,
+.slide .img12, .slide .img13,
+.slide .img14 {
+    display: none;
+}
+figure{
+    margin: 0;
+}
